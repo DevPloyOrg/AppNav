@@ -21,3 +21,15 @@ C:\Users\user\source\ClonedRepo\DevPloyClasses\obj\Debug\net8.0\DevPloyClasses.d
 C:\Users\user\source\ClonedRepo\DevPloyClasses\obj\Debug\net8.0\refint\DevPloyClasses.dll
 C:\Users\user\source\ClonedRepo\DevPloyClasses\obj\Debug\net8.0\DevPloyClasses.pdb
 C:\Users\user\source\ClonedRepo\DevPloyClasses\obj\Debug\net8.0\ref\DevPloyClasses.dll
+C:\Users\user\source\ClonedRepo\AppNav\bin\Debug\net8.0\DevPloyClasses.deps.json
+C:\Users\user\source\ClonedRepo\AppNav\bin\Debug\net8.0\DevPloyClasses.dll
+C:\Users\user\source\ClonedRepo\AppNav\bin\Debug\net8.0\DevPloyClasses.pdb
+C:\Users\user\source\ClonedRepo\AppNav\obj\Debug\net8.0\DevPloyClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\ClonedRepo\AppNav\obj\Debug\net8.0\DevPloyClasses.AssemblyInfoInputs.cache
+C:\Users\user\source\ClonedRepo\AppNav\obj\Debug\net8.0\DevPloyClasses.AssemblyInfo.cs
+C:\Users\user\source\ClonedRepo\AppNav\obj\Debug\net8.0\DevPloyClasses.csproj.CoreCompileInputs.cache
+C:\Users\user\source\ClonedRepo\AppNav\obj\Debug\net8.0\DevPloyClasses.sourcelink.json
+C:\Users\user\source\ClonedRepo\AppNav\obj\Debug\net8.0\DevPloyClasses.dll
+C:\Users\user\source\ClonedRepo\AppNav\obj\Debug\net8.0\refint\DevPloyClasses.dll
+C:\Users\user\source\ClonedRepo\AppNav\obj\Debug\net8.0\DevPloyClasses.pdb
+C:\Users\user\source\ClonedRepo\AppNav\obj\Debug\net8.0\ref\DevPloyClasses.dll

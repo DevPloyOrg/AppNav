@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\ClonedRepo\\DevPloyClasses\\DevPloyClasses.csproj": {}
+    "C:\\Users\\user\\source\\ClonedRepo\\AppNav\\DevPloyClasses.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\ClonedRepo\\DevPloyClasses\\DevPloyClasses.csproj": {
+    "C:\\Users\\user\\source\\ClonedRepo\\AppNav\\DevPloyClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\ClonedRepo\\DevPloyClasses\\DevPloyClasses.csproj",
-        "projectName": "DevPloyClasses",
-        "projectPath": "C:\\Users\\user\\source\\ClonedRepo\\DevPloyClasses\\DevPloyClasses.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\ClonedRepo\\AppNav\\DevPloyClasses.csproj",
+        "projectName": "AppNavLybrary",
+        "projectPath": "C:\\Users\\user\\source\\ClonedRepo\\AppNav\\DevPloyClasses.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\ClonedRepo\\DevPloyClasses\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\ClonedRepo\\AppNav\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",

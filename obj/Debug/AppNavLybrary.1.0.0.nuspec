@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AppNavLybrary</id>
+    <version>1.0.0</version>
+    <authors>Nicola Montanari</authors>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <readme>README.md</readme>
+    <description>Basic reusable models</description>
+    <tags>DevPloy basicModels</tags>
+    <repository type="git" url="https://github.com/DevPloyOrg/AppNav.git" commit="09c95eb484cb0b951ef8eec0d49ad388a5b2d242" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\user\source\ClonedRepo\AppNav\bin\Debug\net8.0\DevPloyClasses.dll" target="lib\net8.0\DevPloyClasses.dll" />
+    <file src="C:\Users\user\source\ClonedRepo\AppNav\LICENSE" target="LICENSE" />
+    <file src="C:\Users\user\source\ClonedRepo\AppNav\README.md" target="README.md" />
+  </files>
+</package>
